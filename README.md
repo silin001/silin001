@@ -1,11 +1,11 @@
-### About me
+## About me
 一个很菜的前端开发， 喜欢打篮球，算是个爱学习的人；
 
 同专业的小伙伴可以加我一起学习、滑水啊😅
 
 * Blog： https://sisi001.gitee.io (待完善...)
 * 我的微信：S.
-* 联系邮箱：862856812@qq.com
+* 联系邮箱：862956812@qq.com
 
 <!--
 **silin001/silin001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
