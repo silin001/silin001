@@ -5,7 +5,7 @@
 
 * Blog： https://sisi001.gitee.io (待完善...)
 * 我的微信：S.
-* 我的邮箱：862856812@qq.com
+* 联系邮箱：862856812@qq.com
 
 <!--
 **silin001/silin001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
