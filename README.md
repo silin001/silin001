@@ -4,7 +4,6 @@
 同专业的小伙伴可以交个朋友一起good good study, day day up😅
 
 * Blog： https://sisi001.gitee.io (待完善...)
-* 我的微信：S.
 * 联系邮箱：862956812@qq.com
 
 <!--
