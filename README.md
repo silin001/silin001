@@ -1,8 +1,9 @@
 ## About me
-一个很菜的前端， 喜欢打篮球，算是个没事会学习的人吧；
+一个很菜的前端，喜欢打篮球，算是个没事会学习的人吧.
 
-同专业的小伙伴可以交个朋友一起good good study, day day up😅
+同行的小伙伴可以交个朋友一起good good study, day day up😅
 
+* 掘金社区：https://juejin.cn/user/2041110775208184/posts
 * Blog： https://sisi001.gitee.io (待完善...)
 * 联系邮箱：862956812@qq.com
 
