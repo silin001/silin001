@@ -1,12 +1,14 @@
 ## About me
-一个很菜的前端，喜欢打篮球，算是个没事会学习的人吧.
-
+一个有点菜的前端，喜欢打篮球，算是个没事会学习的人吧😅
 同行的小伙伴可以交个朋友一起good good study, day day up😅
 
-* 掘金社区：https://juejin.cn/user/2041110775208184/posts
-* Blog： https://sisi001.gitee.io (待完善...)
-* 联系邮箱：862956812@qq.com
+如果你想去实现梦想，孤独是你的必修课.
 
+* 掘金社区：https://juejin.cn/user/2041110775208184/posts
+* Blog： https://sisi001.gitee.io
+* 联系邮箱：862956812@qq.com
+* 技术交流群：加vx：xbql2p8b01（备注来意）
+  
 <!--
 **silin001/silin001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
