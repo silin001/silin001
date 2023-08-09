@@ -1,5 +1,5 @@
 ## About me
-一个有点菜的前端，喜欢打篮球，算是个没事会学习的人吧😅  
+有亿点菜的前端，喜欢打篮球，算是个没事会学习的人吧😅  
 同行的小伙伴可以交个朋友一起good good study, day day up😅
 
 如果你想去实现梦想，孤独是你的必修课.
@@ -8,7 +8,7 @@
 * Blog： https://sisi001.gitee.io
 * 开源经历：[yike-design-dev](https://github.com/ecaps1038/yike-design-dev)
 * 联系邮箱：862956812@qq.com
-* 技术交流群：加vx：xbql2p8b01（备注来意）
+* 技术交流群：加vx：xbql2p8b01（备注来意！）
   
 <!--
 **silin001/silin001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
