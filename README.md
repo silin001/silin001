@@ -9,7 +9,7 @@
 
 
 * 掘金社区：https://juejin.cn/user/2041110775208184/posts
-* Blog： https://sisi001.gitee.io
+* Blog： https://silin001.gitlab.io/
 * 开源经历：[yike-design-dev](https://github.com/ecaps1038/yike-design-dev)
 * 小工具：[plugin-zip-pack](https://www.npmjs.com/package/plugin-zip-pack)
 * 联系邮箱：862956812@qq.com
