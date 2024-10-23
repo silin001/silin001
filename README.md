@@ -13,10 +13,8 @@
 * 开源经历：[yike-design-dev](https://github.com/ecaps1038/yike-design-dev)
 * 插件工具：[plugin-zip-pack](https://www.npmjs.com/package/plugin-zip-pack)
 * 浏览器插件：[摸鱼办-Edge加载项](https://microsoftedge.microsoft.com/addons/detail/%E6%91%B8%E9%B1%BC%E5%8A%9E/ilgmkgmdokhcmpdkkejlgkheoapahall?hl=zh-CN)
-* 联系邮箱：862956812@qq.com
 * 技术交流群：加vx：xbql2p8b01（备注来意！）
 
-  
   
 <!--
 **silin001/silin001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
