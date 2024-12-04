@@ -1,15 +1,15 @@
 ## About me
-有亿点菜的前端，喜欢打篮球，算是个没事会学习的人吧😅  
-同行的小伙伴可以交个朋友一起good good study, day day up😅
+如果你想去实现梦想，孤独是你的必修课. 
 
-如果你想去实现梦想，孤独是你的必修课.  
+练习2坤年、有亿点菜的前端，喜欢打篮球。算是个没事会学习的人吧😅  
+同行小伙伴可以加v拉你进群，一起good good study, day day up！
 
 <!-- 统计代码提交展示 -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=silin001&theme=dark)  -->
 
 
 * 掘金社区：https://juejin.cn/user/2041110775208184/posts
-* Blog： https://silin001.gitlab.io/
+* Blog： https://silin001.gitlab.io
 * 开源经历：[yike-design-dev](https://github.com/ecaps1038/yike-design-dev)
 * 插件工具：[plugin-zip-pack](https://www.npmjs.com/package/plugin-zip-pack)
 * 浏览器插件：[摸鱼办-Edge加载项](https://microsoftedge.microsoft.com/addons/detail/%E6%91%B8%E9%B1%BC%E5%8A%9E/ilgmkgmdokhcmpdkkejlgkheoapahall?hl=zh-CN)
